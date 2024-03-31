@@ -1,6 +1,8 @@
 # Fellowships and Internships
 
-**The following are some global research internship positions:**
+Here are some scholarships and internships that I have found that could be very useful.
+
+**The following are some global research internship positions o fellowships:**
 
 ON-LINE:
 * [Non-trivial](https://www.non-trivial.org/), young people who are aged 14-20 and haven’t started university by the start of the fellowship. No standardised test scores are required.
@@ -20,7 +22,20 @@ ON-LINE:
 
 * [AI safety fundamentals](https://aisafetyfundamentals.com/governance-course-details/), 12 week online course, covering a range of policy levers for steering AI development.
 
+* [Introduction to Quantum Research for Girls](https://beyondresearch.physicsbeyond.com/iqrg-2/), Join our free international nine-week research programme for girls of all levels to get involved in the world of quantum physics and quantum computing!
+
+* [Solve](https://solve.mit.edu/) is an initiative of MIT. They believe that to achieve a more sustainable and equitable future for all, new voices and ideas are needed. They launch open calls to find exceptional and diverse solutions to the most pressing global challenges from anywhere in the world. Selected innovators are supported by MIT and its community of collaborators to amplify their impact and drive lasting change.
+
 USA:
 
 * [RIPS](https://www.ipam.ucla.edu/programs/student-research-programs/), Research in Industrial Projects for Students
 
+* [The ML Alignment & Theory Scholars (MATS)](https://www.matsprogram.org/)  Program is an educational seminar and independent research program that aims to provide talented scholars with talks, workshops, and research mentorship in the field of AI alignment and safety. We also connect them with the Berkeley alignment research community.
+
+UK:
+
+* [The Cambridge ERA](https://erafellowship.org/): AI Fellowship provides aspiring AI safety & Governance researchers with an in-person, paid, 8-week summer research fellowship at the University of Cambridge.
+
+JAPAN: 
+
+* [OIST](https://admissions.oist.jp/apply-research-internship): students who are currently enrolled in or who have graduated from a Bachelor's or Master's program and are interested in joining the OIST PhD program may undertake educational activity at OIST as a Research Intern. A research internship at OIST provides students with experience working in a research environment under the direction of OIST faculty.
