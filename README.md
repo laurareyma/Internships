@@ -1,8 +1,8 @@
-# Fellowships and Internships
+# Opportunities for Undergraduates
 
-Here are some scholarships and internships that I have found that could be very useful.
+Here are some competitions, scholarships and internships that I have found that could be very useful for undergraduates students.
 
-**The following are some global research internship positions o fellowships:**
+**The following are some global research internship positions or fellowships and competitions:**
 
 ON-LINE:
 * [Non-trivial](https://www.non-trivial.org/), young people who are aged 14-20 and haven’t started university by the start of the fellowship. No standardised test scores are required.
@@ -26,6 +26,10 @@ ON-LINE:
 
 * [Solve](https://solve.mit.edu/) is an initiative of MIT. They believe that to achieve a more sustainable and equitable future for all, new voices and ideas are needed. They launch open calls to find exceptional and diverse solutions to the most pressing global challenges from anywhere in the world. Selected innovators are supported by MIT and its community of collaborators to amplify their impact and drive lasting change.
 
+* [YOUNG CHAMPIONS OF THE EARTH](https://www.unep.org/youngchampions/apply/timeline) if you have at least 6 months experience working on a big idea to protect or restore the environment and will be aged between 18 and 30, you are eligible to apply.
+
+* [AIM Research Program](https://www.charityentrepreneurship.com/research-training-program), this online program is designed to equip participants with the tools and skills needed to identify, compare, and recommend the most effective charities and interventions. It is a full-time, fully cost-covered program that will run online for 12 weeks.
+
 USA:
 
 * [RIPS](https://www.ipam.ucla.edu/programs/student-research-programs/), Research in Industrial Projects for Students
@@ -39,3 +43,5 @@ UK:
 JAPAN: 
 
 * [OIST](https://admissions.oist.jp/apply-research-internship): students who are currently enrolled in or who have graduated from a Bachelor's or Master's program and are interested in joining the OIST PhD program may undertake educational activity at OIST as a Research Intern. A research internship at OIST provides students with experience working in a research environment under the direction of OIST faculty.
+
+* [Pivotal Research](https://www.pivotal-research.org/fellowship): Pivotal is committed to understanding and reducing global catastrophic risks, especially those arising from advanced artificial intelligence and biotechnology. By supporting exceptional talent poised to make significant contributions to reducing these risks, we set the stage for important research and policy work. In doing so, we aim for a brighter and safer world for everyone.
