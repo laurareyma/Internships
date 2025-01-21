@@ -19,6 +19,7 @@ ON-LINE:
 * [AIM Research Program](https://www.charityentrepreneurship.com/research-training-program)
 * [Imagine Cup by Microsoft](https://imaginecup.microsoft.com/en-us)
 * [ICT Competition by Huawei](https://e.huawei.com/en/talent/ict-academy/#/ict-contest?compId=85131998)
+* [Mentoreo de IT Women](https://www.lacnic.net/4882/1/lacnic/mentoreo-de-it-women)
 
 USA:
 
@@ -26,6 +27,10 @@ USA:
 * [The ML Alignment & Theory Scholars (MATS)](https://www.matsprogram.org/)
 * [Princeton Summer Internship Opportunities](https://acee.princeton.edu/education/summer-internship-opportunities/)
 * [SURF Purdue University Research Program](https://engineering.purdue.edu/Engr/Research/EURO/students/about-SURF/prospectiveSURFApplicants)
+* [Introducing the Anthropic Fellows Program for AI Safety Research](https://alignment.anthropic.com/2024/anthropic-fellows-program/)
+
+* [Institute for Creative Technologies](https://ict.usc.edu/careers/internships/)
+* [HCII Summer Undergraduate Research Program](https://hcii.cmu.edu/summer-research-program)
 
 UK:
 
