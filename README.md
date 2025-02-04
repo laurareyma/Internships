@@ -28,13 +28,17 @@ USA:
 * [Princeton Summer Internship Opportunities](https://acee.princeton.edu/education/summer-internship-opportunities/)
 * [SURF Purdue University Research Program](https://engineering.purdue.edu/Engr/Research/EURO/students/about-SURF/prospectiveSURFApplicants)
 * [Introducing the Anthropic Fellows Program for AI Safety Research](https://alignment.anthropic.com/2024/anthropic-fellows-program/)
-
 * [Institute for Creative Technologies](https://ict.usc.edu/careers/internships/)
 * [HCII Summer Undergraduate Research Program](https://hcii.cmu.edu/summer-research-program)
+* [Space Astronomy Summer Program](https://www.stsci.edu/home/opportunities/space-astronomy-summer-program)
+* [Chemers Neustein Summer Undergraduate Research Fellowship Program](https://www.rockefeller.edu/education-and-training/surf/)
+* [AScI International Summer Research Programme](https://www.aalto.fi/en/aalto-science-institute-asci/how-to-apply-for-the-asci-international-summer-research-programme)
+* [Summer Program for Undergraduate Research University of Utah](https://our.utah.edu/research-scholarship-opportunities/spur/spur-student-application/)
 
 UK:
 
 * [The Cambridge ERA](https://erafellowship.org/)
+* [Edinburgh Futures Institute](https://efi.ed.ac.uk/research/visiting-fellowship-programme/)
 
 JAPAN: 
 
@@ -43,3 +47,6 @@ JAPAN:
 
 EUROPE:
 * [EPFL Summer Research Program](https://www.epfl.ch/schools/sv/education/summer-research-program/)
+
+AUSTRALIA:
+* [TARA AI SAFETY](https://www.aisafetyanz.com.au/tara)
